@@ -9,4 +9,5 @@ Lista produktów:
 -pieczarki
 -kabanosy
 -sos
--kurki
+-chleb
+-naprawione
