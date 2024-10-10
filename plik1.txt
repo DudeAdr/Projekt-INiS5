@@ -8,5 +8,6 @@ Lista produktów:
 -woda
 -pieczarki
 -kabanosy
--klopsy
+-sos
 -chleb
+-naprawione
