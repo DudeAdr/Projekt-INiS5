@@ -4,4 +4,5 @@ Lista produktów:
 -banan
 -płatki
 -bułki
+-ser
 -woda
