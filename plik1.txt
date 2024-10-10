@@ -4,5 +4,9 @@ Lista produktów:
 -banan
 -płatki
 -bułki
+<<<<<<< HEAD
 -ser
+=======
+-szynka
+>>>>>>> txt
 -woda
