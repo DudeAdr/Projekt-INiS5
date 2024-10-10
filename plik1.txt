@@ -1,0 +1,7 @@
+Lista produktów:
+-jabłko
+-mleko
+-banan
+-płatki
+-bułki
+-woda
